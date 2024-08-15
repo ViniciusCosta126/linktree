@@ -6,7 +6,7 @@ function App() {
       <div className="bg-slate-800 flex items-center justify-center h-screen">
         <div className="container px-4">
           <h1 className="text-zinc-50 text-4xl text-center">
-            Links para Redes sociais/Compras
+            Links para Redes sociais
           </h1>
           <div className="mt-8">
             <div className="md:max-w-2xl md:mx-auto text-center border border-2 shadow p-4 rounded-full mb-6 hover:bg-green-600 hover:border-green-900 hover:scale-110 transition-all">
